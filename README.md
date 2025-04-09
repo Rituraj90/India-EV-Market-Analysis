@@ -2,7 +2,7 @@
 ## Overview
 
 This Power BI report provides an analysis of the Electric Vehicle (EV) market in India, covering key aspects such as sales trends, market share by manufacturers, vehicle type distribution, and revenue growth projections. The report aims to give stakeholders insights into the rapidly evolving EV landscape in India, supporting strategic decision-making for businesses and policymakers.
-sssssss
+
 ## Data
 
 The dataset includes:
